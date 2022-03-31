@@ -1,5 +1,5 @@
 # Link for the application -->
-nearby-travel-advisor.netlify.app
+https://nearby-travel-advisor.netlify.app/
 
 # Getting Started with Create React App
 
