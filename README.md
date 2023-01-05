@@ -42,8 +42,10 @@ https://nearby-travel-advisor.netlify.app/
 
 To deploy this project run
 
-bash
+
+```bash
   npm run build
+```
 
 Upload the build file to a hosting app.
 This project has been uploaded to netlify.
